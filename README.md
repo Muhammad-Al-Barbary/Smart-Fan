@@ -1,13 +1,13 @@
 # Smart-Fan
 Smart Fan \
 Embedded System Project using atmega16 microcontroller \
-Implemented the following Drivers: \
-1. GPIO \ 
-2. LCD \
-3. ADC \
-4. LM35 Temperature Sensor \
-5. MOTOR \
-6. PWM Timer \
+Implemented the following Drivers: 
+1. GPIO 
+2. LCD
+3. ADC 
+4. LM35 Temperature Sensor 
+5. MOTOR 
+6. PWM Timer 
 
 Simulated using Proteus: 
 
